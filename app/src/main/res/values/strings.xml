@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TravelBlog</string>
+    <string name="pass_hint">Password</string>
+    <string name="email_hint">Enter Your Email</string>
+    <string name="login_logo_desco">Logo Login Page</string>
+    <string name="login_btn_text">Login to account</string>
+    <string name="login_reg_btn_text">Sign up?</string>
+</resources>
